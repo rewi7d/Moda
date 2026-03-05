@@ -1,0 +1,39 @@
+taken from monte-hero theme config.
+below are possible sidebar functions for main.conf. (look in loc='')
+
+<launcher>
+	        	<!--01-->	<sub str='Contacts' id='FSCommand:launch' loc='Widget,Softkey,2' icon='4' des=''/>
+		<!--02-->	<sub str='Wifi' id='FSCommand:launch' loc='Widget,WiFi' icon='28' des=''/>
+		<!--03-->	<sub str='Ringtone' id='FSCommand:launch' loc='Widget,RingtoneSetting' icon='3' des=''/>
+		<!--04-->	<sub str='Msg Inbox' id='FSCommand:launch' loc='Widget,MsgInbox' icon='7' des=''/>
+
+		<!--05-->	<sub str='Bluetooth' id='FSCommand:launch' loc='Widget,Bluetooth' icon='1' des=''/>
+		<!--06-->	<sub str='Player' id='FSCommand:launch' loc='Widget,MiniPlayer_2' icon='12' des=''/>
+		<!--07-->	<sub str='Date.Time' id='FSCommand:launch' loc='Widget,Time&date' icon='20' des=''/>
+		<!--08-->	<sub str='Mirror' id='FSCommand:launch' loc='Widget,Mirror' icon='21' des=''/>
+
+		<!--09-->	<sub str='Alarms' id='FSCommand:launch' loc='Widget,Alarms' icon='18' des=''/>
+		<!--10-->	<sub str='Menu' id='FSCommand:launch' loc='Widget,Softkey,4' icon='17' des=''/>
+		<!--11-->	<sub str='Write SMS' id='FSCommand:launch' loc='Widget,MsgComposer' icon='9' des=''/>
+		<!--12-->	<sub str='Records' id='FSCommand:launch' loc='Widget,VoiceMemo' icon='26' des=''/>
+
+		<!--13-->	<sub str='Calculator' id='FSCommand:launch' loc='Widget,Calculator' icon='14' des=''/>
+		<!--14-->	<sub str='Calendar' id='FSCommand:launch' loc='Widget,Calendar' icon='27' des=''/>
+		<!--15-->	<sub str='SMS' id='FSCommand:launch' loc='Widget,Softkey,3' icon='13' des=''/>
+		<!--16-->	<sub str='Navigation' id='FSCommand:launch' loc='Widget,Navigation' icon='11' des=''/>
+
+		<!--17-->	<sub str='Tools' id='Settings' loc='6,2' icon='33' des=''/>
+		<!--18-->	<sub str='Facebook' id='FSCommand:launch' loc='Widget,Facebook' icon='2' des=''/>
+		<!--19-->	<sub str='Fm Radio' id='FSCommand:launch' loc='Widget,MiniRadio' icon='10' des=''/>
+		<!--20-->	<sub str='My Space' id='FSCommand:launch' loc='Widget,MySpace' icon='29' des=''/>
+
+                		<!--21-->	<sub str='Youtube' id='FSCommand:launch' loc='Widget,Youtube' icon='22' des=''/>
+                		<!--22-->	<sub str='Photobucket' id='FSCommand:launch' loc='Widget,Photobucket' icon='6' des=''/>
+                		<!--23-->	<sub str='Notes' id='FSCommand:launch' loc='Widget,Memo' icon='30' des=''/>
+                		<!--24-->	<sub str='Java Apps' id='FSCommand:launch' loc='Widget,Games' icon='24' des=''/>
+
+                		<!--25-->	<sub str='Net Shortcut' id='MoreItems' loc='6,1' icon='32' des=''/>
+               		<!--26-->	<sub str='Flash Games' id='FSCommand:launch' loc='Widget,Help' icon='16' des=''/>
+                		<!--27-->	<sub str='MuZiker' id='MusicPlayer' loc='6,3' icon='19' des=''/>
+		<!--28-->	<sub str='' id='' loc='' icon='' des=''/>
+          </launcher>
